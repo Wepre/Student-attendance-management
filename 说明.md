@@ -1,0 +1,35 @@
+# 基于云开发的课程打卡小程序源码 用的是云开发技术 实现了定位打卡（范围可设置，单位为米，具体实现可看图），后台是cms系统，对小程序所有信息进行增删改查。
+
+## 具体实现以下功能：
+- 用户登录注册
+- 用户创建签到：自动定位当前位置，设置打卡范围（半径）
+- 用户加入签到：在签到之前需要先加入这个签到活动，再进行签到
+- 用户签到：对已经加入的签到活动进行签到，对时间、位置进行限制，并提示
+- 用户信息修改：对自己的信息进行修改
+- 用户签到统计：创建者可以查看自己创建签到的签到记录（对已加入的同学分成已打卡跟未打卡），并显示打卡时间- 并状态---正常、超时等，同时可以查看加入同学的信息
+- 
+- 签到信息修改：创建者进行修改
+- 签到信息删除：创建者进行删除
+- 
+- 用户反馈模块：使用用户可以发布对小程序的反馈信息
+## 后台
+- 用户信息管理
+- 签到信息管理
+- 反馈信息管理
+- 签到信息统计
+
+使用：
+首先用户注册并登录账号
+
+签到流程：必须先加入一个同学发布的签到当中（自己可以加入自己的签到），
+
+## 图片
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733542.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733534.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733541.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733540.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733539.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733538.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733537.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733536.jpg)
+![](https://gitee.com/finnianX/mypicture/raw/master/202403101733535.jpg)
